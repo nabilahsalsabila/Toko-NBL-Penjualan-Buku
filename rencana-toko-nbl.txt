@@ -1,0 +1,3 @@
+Rencana Toko NBL
+- membuat kafe untuk pembeli dan pembaca
+- membuat ruangan ibadah untuk para pembeli dan karyawan
