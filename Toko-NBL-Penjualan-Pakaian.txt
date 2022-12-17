@@ -1,0 +1,6 @@
+Kategori buku yang dijual pada toko NBL
+- Novel
+- Buku Dongeng
+- Komik
+- Biografi
+- Ensiklopedia
