@@ -4,3 +4,5 @@ Kategori buku yang dijual pada toko NBL
 - Komik
 - Biografi
 - Ensiklopedia
+- Kamus
+- Biografi
