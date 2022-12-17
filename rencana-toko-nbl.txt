@@ -4,3 +4,4 @@ Rencana Toko NBL
 - membuat taman bermain untuk anak-anak
 - menambah pepohonan hijau pada toko
 - tambah jenis buku novel romansa
+- varian buku internasional
