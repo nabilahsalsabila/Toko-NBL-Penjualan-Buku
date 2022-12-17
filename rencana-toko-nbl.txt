@@ -5,3 +5,4 @@ Rencana Toko NBL
 - menambah pepohonan hijau pada toko
 - tambah jenis buku novel romansa
 - varian buku internasional
+- menambakan tempat membaca
